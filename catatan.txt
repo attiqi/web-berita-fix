@@ -1,0 +1,8 @@
+Catatan : 
+Halaman Login (berjalan)
+Halaman UI public (Sudah terintegrasi sama database)
+Halaman Admin (Sudah terintegrasi dengan database)
+Halaman Manajemen admin CRUD (sudah terintegrasi dengan database dan fungsi CRUD sudah berjalan)
+Halaman detail berita sudah terintegrasi sesuai dengan id yang dipilih
+Fungsi filter dalam UI public sudah berjalan
+implementasi library saya menggunakan mpdf sudah berjalan
